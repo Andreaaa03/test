@@ -1,0 +1,4 @@
+questo è un file c++ 2
+ciao
+ciao
+ciao
